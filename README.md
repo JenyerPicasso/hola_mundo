@@ -1,5 +1,5 @@
-# hola_mundo
-Mi primer repositorio prueba
+# hola_mundillo
+Mi primer repositorio prueba 2
 
-Autor:
+Autor: Jen
 Fecha:
